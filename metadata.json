@@ -1,0 +1,6 @@
+{
+  "name": "CalorieCard",
+  "description": "Smart daily nutrition and calorie tracker featuring 100+ high-protein low-fat Indian daily staples, Yuck-to-Yum culinary science lab, super healthy recipes, excess calorie recovery coach, and weight loss analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
